@@ -94,8 +94,8 @@ body{
 .nav.prev{left:-4px}
 .nav.next{right:-4px}
 
-/* Centralizar CTA dos depoimentos */
-.testimonials .cta{display:block;margin:20px auto 0}
+/* Centralizar e reduzir CTA dos depoimentos */
+.testimonials .cta{display:block;width:fit-content;max-width:100%;margin:12px auto 0;font-size:13px;padding:10px 14px}
 
 /* SOBRE */
 .about{padding:56px 0}
